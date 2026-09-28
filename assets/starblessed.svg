@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg version="1.1" width="35" height="30" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+<rect x="15" y="0" width="5" height="25" fill="#F6D646" />
+<rect x="10" y="5" width="5" height="5" fill="#DBA733" />
+<rect x="20" y="5" width="5" height="5" fill="#DBA733" />
+<rect x="0" y="10" width="5" height="5" fill="#DBA733" />
+<rect x="5" y="10" width="10" height="5" fill="#F6D646" />
+<rect x="20" y="10" width="10" height="5" fill="#F6D646" />
+<rect x="30" y="10" width="5" height="5" fill="#DBA733" />
+<rect x="5" y="15" width="5" height="5" fill="#DBA733" />
+<rect x="10" y="15" width="5" height="10" fill="#F6D646" />
+<rect x="20" y="15" width="5" height="10" fill="#F6D646" />
+<rect x="25" y="15" width="5" height="5" fill="#DBA733" />
+<rect x="5" y="20" width="5" height="5" fill="#F6D646" />
+<rect x="25" y="20" width="5" height="5" fill="#F6D646" />
+<rect x="0" y="25" width="5" height="5" fill="#F6D646" />
+<rect x="5" y="25" width="5" height="5" fill="#DBA733" />
+<rect x="25" y="25" width="5" height="5" fill="#DBA733" />
+<rect x="30" y="25" width="5" height="5" fill="#F6D646" />
+</svg>
